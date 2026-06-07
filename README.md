@@ -77,7 +77,8 @@ The dashboard enables stakeholders to:
 
 ## Supply Chain Insights Dashboard
 
-![Supply Chain Dashboard](images/dashboard_2.png)
+![Supply Chain Dashboard](https://github.com/AymenAli-Analyst/Business-Pulse-360-Performance-Supply-Chain-Analytics/blob/main/dash%20pi%202.png?raw=true
+)
 
 ---
 
