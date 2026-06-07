@@ -1,0 +1,301 @@
+ProductID,Product,Warehouse,StockQty,StrategicStock,UnitCost
+P0001,Medical Supplies,Riyadh WH,3189,2321,269.45
+P0002,Home Appliances,Riyadh WH,3274,588,209.41
+P0003,Industrial Parts,Dammam WH,1982,2896,203.32
+P0004,Office Supplies,Dammam WH,1748,1707,283.83
+P0005,Electronics,Dammam WH,1865,2534,36.74
+P0006,Personal Care,Riyadh WH,4753,1323,102.9
+P0007,Medical Supplies,Dammam WH,3250,787,61.57
+P0008,Personal Care,Jeddah WH,461,2597,423.86
+P0009,Auto Parts,Dammam WH,3085,1913,306.84
+P0010,Industrial Parts,Jeddah WH,330,2788,10.85
+P0011,Electronics,Dammam WH,785,1341,236.91
+P0012,Packaging Materials,Dammam WH,696,745,355.89
+P0013,Personal Care,Dammam WH,337,2696,447.61
+P0014,Medical Supplies,Dammam WH,1407,1603,199.15
+P0015,Electronics,Jeddah WH,4853,1786,486.99
+P0016,Food Products,Riyadh WH,3974,2166,229.07
+P0017,Industrial Parts,Riyadh WH,2352,1088,209.28
+P0018,Auto Parts,Riyadh WH,4330,765,247.68
+P0019,Medical Supplies,Jeddah WH,4902,642,236.86
+P0020,Home Appliances,Jeddah WH,3437,2426,42.24
+P0021,Industrial Parts,Riyadh WH,1811,1346,47.77
+P0022,Electronics,Jeddah WH,766,728,350.63
+P0023,Industrial Parts,Riyadh WH,2811,1275,394.31
+P0024,Office Supplies,Riyadh WH,719,904,74.85
+P0025,Packaging Materials,Dammam WH,4786,1050,272.75
+P0026,Electronics,Jeddah WH,4514,1929,20.27
+P0027,Personal Care,Jeddah WH,2118,1606,272.55
+P0028,Food Products,Riyadh WH,2328,2493,255.71
+P0029,Office Supplies,Dammam WH,3151,2316,282.13
+P0030,Food Products,Dammam WH,1370,2195,287.97
+P0031,Home Appliances,Riyadh WH,177,2060,277.97
+P0032,Auto Parts,Jeddah WH,1565,1346,172.88
+P0033,Office Supplies,Dammam WH,1943,980,35.22
+P0034,Beverages,Jeddah WH,4468,1047,85.33
+P0035,Auto Parts,Jeddah WH,4572,1053,234.09
+P0036,Electronics,Dammam WH,2705,2176,451.31
+P0037,Beverages,Dammam WH,4424,2299,368.53
+P0038,Home Appliances,Riyadh WH,4861,1484,150.39
+P0039,Food Products,Riyadh WH,3575,568,313.84
+P0040,Medical Supplies,Dammam WH,4131,1184,385.7
+P0041,Office Supplies,Riyadh WH,3552,1383,184.5
+P0042,Packaging Materials,Dammam WH,4620,855,16.11
+P0043,Packaging Materials,Dammam WH,1747,2362,310.42
+P0044,Auto Parts,Jeddah WH,2170,1004,152.69
+P0045,Beverages,Dammam WH,3660,662,317.64
+P0046,Beverages,Jeddah WH,4072,2267,495.97
+P0047,Auto Parts,Jeddah WH,276,1829,222.94
+P0048,Industrial Parts,Jeddah WH,2512,1075,83.37
+P0049,Industrial Parts,Riyadh WH,1762,2714,220.21
+P0050,Personal Care,Dammam WH,1960,1393,22.85
+P0051,Packaging Materials,Dammam WH,2009,818,363.6
+P0052,Home Appliances,Riyadh WH,4905,514,452.87
+P0053,Home Appliances,Jeddah WH,3709,1489,215.36
+P0054,Food Products,Dammam WH,4502,2882,347.45
+P0055,Electronics,Riyadh WH,3718,731,195.83
+P0056,Food Products,Jeddah WH,4362,989,282.32
+P0057,Packaging Materials,Riyadh WH,4747,1078,375.98
+P0058,Auto Parts,Dammam WH,1444,1233,147.86
+P0059,Medical Supplies,Jeddah WH,994,2184,285.39
+P0060,Packaging Materials,Dammam WH,2138,2997,395.44
+P0061,Personal Care,Jeddah WH,1435,1505,96.83
+P0062,Beverages,Jeddah WH,2571,1028,245.2
+P0063,Office Supplies,Riyadh WH,342,2885,300.81
+P0064,Personal Care,Riyadh WH,3930,779,396.17
+P0065,Food Products,Dammam WH,3726,544,103.08
+P0066,Electronics,Riyadh WH,3911,1663,405.48
+P0067,Office Supplies,Riyadh WH,4432,899,182.01
+P0068,Beverages,Jeddah WH,1936,2711,66.68
+P0069,Auto Parts,Jeddah WH,1914,2495,237.86
+P0070,Packaging Materials,Riyadh WH,3425,1529,387.21
+P0071,Beverages,Jeddah WH,1756,2489,226.78
+P0072,Auto Parts,Dammam WH,2817,1994,253.79
+P0073,Beverages,Riyadh WH,2704,794,135.34
+P0074,Auto Parts,Dammam WH,1962,2473,197.85
+P0075,Auto Parts,Jeddah WH,491,1777,430.29
+P0076,Packaging Materials,Dammam WH,1541,873,304.5
+P0077,Auto Parts,Riyadh WH,3817,2424,13.47
+P0078,Food Products,Riyadh WH,3669,1981,199.4
+P0079,Beverages,Jeddah WH,1140,2460,478.17
+P0080,Food Products,Riyadh WH,2953,1989,53.3
+P0081,Auto Parts,Riyadh WH,4838,974,481.72
+P0082,Beverages,Dammam WH,1056,2336,445.19
+P0083,Auto Parts,Dammam WH,1476,1808,496.97
+P0084,Office Supplies,Dammam WH,3369,1399,223.97
+P0085,Medical Supplies,Dammam WH,3395,1229,235.69
+P0086,Home Appliances,Riyadh WH,4740,998,361.81
+P0087,Personal Care,Dammam WH,3840,1639,351.94
+P0088,Office Supplies,Jeddah WH,2633,1933,403.74
+P0089,Home Appliances,Riyadh WH,4309,1978,130.82
+P0090,Personal Care,Dammam WH,3930,2502,362.31
+P0091,Home Appliances,Jeddah WH,1556,1518,395.91
+P0092,Office Supplies,Dammam WH,297,1585,212.28
+P0093,Personal Care,Dammam WH,1501,872,304.63
+P0094,Office Supplies,Riyadh WH,1229,772,265.29
+P0095,Medical Supplies,Riyadh WH,1322,508,301.47
+P0096,Food Products,Dammam WH,610,2055,266.51
+P0097,Office Supplies,Riyadh WH,4901,1749,308.52
+P0098,Medical Supplies,Riyadh WH,3764,2518,177.81
+P0099,Industrial Parts,Dammam WH,2680,1476,204.05
+P0100,Industrial Parts,Jeddah WH,2669,2333,183.96
+P0101,Medical Supplies,Riyadh WH,271,1892,64.08
+P0102,Industrial Parts,Jeddah WH,2319,1973,331.1
+P0103,Electronics,Jeddah WH,236,1550,216.26
+P0104,Packaging Materials,Jeddah WH,4396,1759,189.55
+P0105,Auto Parts,Jeddah WH,223,1112,267.01
+P0106,Office Supplies,Jeddah WH,4182,2817,346.25
+P0107,Industrial Parts,Jeddah WH,1044,2178,436.44
+P0108,Personal Care,Jeddah WH,2364,2051,478.53
+P0109,Electronics,Dammam WH,1647,2638,76.45
+P0110,Industrial Parts,Jeddah WH,1136,741,350.5
+P0111,Food Products,Riyadh WH,949,2343,389.47
+P0112,Electronics,Jeddah WH,3467,2156,331.52
+P0113,Food Products,Dammam WH,3213,731,306.11
+P0114,Electronics,Dammam WH,3785,1864,488.96
+P0115,Home Appliances,Jeddah WH,988,2277,45.14
+P0116,Electronics,Jeddah WH,4429,2788,482.52
+P0117,Food Products,Riyadh WH,2614,2366,411.38
+P0118,Industrial Parts,Jeddah WH,1018,1708,59.06
+P0119,Auto Parts,Riyadh WH,4941,1962,329.39
+P0120,Food Products,Riyadh WH,1263,548,330.61
+P0121,Office Supplies,Riyadh WH,2590,2707,438.68
+P0122,Auto Parts,Dammam WH,355,1311,30.15
+P0123,Medical Supplies,Dammam WH,4132,997,454.65
+P0124,Electronics,Dammam WH,861,1942,317.61
+P0125,Medical Supplies,Dammam WH,4495,2538,57.86
+P0126,Personal Care,Riyadh WH,4225,2302,492.51
+P0127,Electronics,Jeddah WH,2306,2274,34.53
+P0128,Auto Parts,Riyadh WH,3243,2132,476.37
+P0129,Office Supplies,Dammam WH,2384,1607,38.85
+P0130,Home Appliances,Riyadh WH,2268,1063,415.13
+P0131,Personal Care,Riyadh WH,4303,748,185.59
+P0132,Office Supplies,Jeddah WH,2294,652,223.16
+P0133,Personal Care,Jeddah WH,102,1484,271.04
+P0134,Home Appliances,Jeddah WH,4333,2351,212.37
+P0135,Office Supplies,Dammam WH,308,730,250.67
+P0136,Packaging Materials,Riyadh WH,1256,2402,125.87
+P0137,Home Appliances,Jeddah WH,3077,1353,481.07
+P0138,Personal Care,Riyadh WH,4913,2440,387.47
+P0139,Home Appliances,Dammam WH,1590,2305,336.23
+P0140,Home Appliances,Jeddah WH,330,605,270.14
+P0141,Personal Care,Dammam WH,2319,1436,72.07
+P0142,Beverages,Riyadh WH,3558,851,101.02
+P0143,Personal Care,Dammam WH,2640,2288,449.26
+P0144,Personal Care,Jeddah WH,1587,1091,244.87
+P0145,Industrial Parts,Dammam WH,3445,2508,66.01
+P0146,Home Appliances,Dammam WH,4245,2775,447.99
+P0147,Office Supplies,Jeddah WH,2050,2026,342.05
+P0148,Food Products,Jeddah WH,2303,2593,447.37
+P0149,Auto Parts,Riyadh WH,2844,830,250.92
+P0150,Office Supplies,Riyadh WH,1976,2365,333.15
+P0151,Food Products,Jeddah WH,1527,1171,255.56
+P0152,Personal Care,Dammam WH,2901,1938,114.97
+P0153,Industrial Parts,Jeddah WH,2145,1050,443.36
+P0154,Food Products,Jeddah WH,2126,1114,23.7
+P0155,Industrial Parts,Riyadh WH,3463,1950,169.13
+P0156,Beverages,Riyadh WH,1369,846,35.32
+P0157,Electronics,Dammam WH,3313,1763,27.22
+P0158,Food Products,Dammam WH,4780,2444,431.18
+P0159,Personal Care,Dammam WH,2189,667,34.51
+P0160,Personal Care,Jeddah WH,3837,809,483
+P0161,Auto Parts,Dammam WH,2655,939,218.91
+P0162,Home Appliances,Jeddah WH,3071,1386,332.75
+P0163,Electronics,Dammam WH,2451,1329,87.78
+P0164,Auto Parts,Jeddah WH,268,2927,251.13
+P0165,Food Products,Dammam WH,1718,1571,12.81
+P0166,Beverages,Dammam WH,1912,2165,380.21
+P0167,Office Supplies,Riyadh WH,170,2601,165.19
+P0168,Personal Care,Dammam WH,3681,2492,14.02
+P0169,Electronics,Jeddah WH,3519,2620,341.28
+P0170,Industrial Parts,Riyadh WH,4063,2211,320.44
+P0171,Beverages,Riyadh WH,1466,2614,357.99
+P0172,Auto Parts,Dammam WH,324,1514,414.06
+P0173,Auto Parts,Jeddah WH,2930,1135,79.88
+P0174,Personal Care,Riyadh WH,1132,2806,87.21
+P0175,Medical Supplies,Jeddah WH,555,2344,330.38
+P0176,Industrial Parts,Dammam WH,2621,2688,263.14
+P0177,Office Supplies,Riyadh WH,3432,1951,60.37
+P0178,Office Supplies,Dammam WH,860,1713,428.42
+P0179,Medical Supplies,Jeddah WH,1584,832,264.91
+P0180,Personal Care,Dammam WH,4329,1815,290.39
+P0181,Industrial Parts,Riyadh WH,4792,2890,224.34
+P0182,Medical Supplies,Jeddah WH,3253,2470,418.62
+P0183,Home Appliances,Jeddah WH,2029,2757,393.38
+P0184,Personal Care,Riyadh WH,3995,1215,138.19
+P0185,Food Products,Jeddah WH,1144,2211,326.87
+P0186,Packaging Materials,Dammam WH,590,2059,20.69
+P0187,Auto Parts,Dammam WH,1610,1628,343.36
+P0188,Food Products,Jeddah WH,560,1607,226.78
+P0189,Personal Care,Riyadh WH,2257,1716,400.93
+P0190,Beverages,Dammam WH,3825,808,479.05
+P0191,Packaging Materials,Dammam WH,430,1308,359.5
+P0192,Food Products,Dammam WH,4254,1472,12.14
+P0193,Packaging Materials,Jeddah WH,2961,794,450.96
+P0194,Personal Care,Dammam WH,1536,1871,170.3
+P0195,Office Supplies,Jeddah WH,2254,1366,136.88
+P0196,Office Supplies,Riyadh WH,597,2771,442.79
+P0197,Electronics,Riyadh WH,3278,2818,130.88
+P0198,Beverages,Jeddah WH,1181,1582,123.02
+P0199,Auto Parts,Jeddah WH,1542,1946,109.25
+P0200,Auto Parts,Jeddah WH,1137,1871,426.29
+P0201,Medical Supplies,Dammam WH,2217,1921,90.01
+P0202,Beverages,Dammam WH,1936,2731,230.4
+P0203,Electronics,Dammam WH,991,522,282.88
+P0204,Packaging Materials,Jeddah WH,3690,2957,452.59
+P0205,Food Products,Jeddah WH,4739,1930,242.79
+P0206,Personal Care,Riyadh WH,1964,1739,494.32
+P0207,Office Supplies,Dammam WH,1827,2802,203.34
+P0208,Home Appliances,Dammam WH,1703,2580,327.27
+P0209,Packaging Materials,Jeddah WH,2908,1778,382.25
+P0210,Beverages,Dammam WH,3198,2780,210.21
+P0211,Medical Supplies,Riyadh WH,1847,2801,434.31
+P0212,Packaging Materials,Dammam WH,2363,2869,424.09
+P0213,Office Supplies,Jeddah WH,4737,1927,387.45
+P0214,Auto Parts,Dammam WH,284,2389,166.8
+P0215,Industrial Parts,Dammam WH,1209,2546,135.69
+P0216,Auto Parts,Dammam WH,1200,841,237.2
+P0217,Food Products,Dammam WH,252,2611,62.87
+P0218,Food Products,Riyadh WH,4317,1072,349.26
+P0219,Packaging Materials,Dammam WH,693,1574,369.37
+P0220,Beverages,Dammam WH,4423,2468,157.19
+P0221,Beverages,Riyadh WH,2411,1324,91.19
+P0222,Beverages,Dammam WH,4641,773,44.9
+P0223,Industrial Parts,Dammam WH,3283,684,78.11
+P0224,Personal Care,Jeddah WH,3579,2168,128.58
+P0225,Packaging Materials,Dammam WH,3395,2863,43.22
+P0226,Home Appliances,Riyadh WH,3181,1976,432.64
+P0227,Food Products,Riyadh WH,2499,1486,299.81
+P0228,Industrial Parts,Riyadh WH,3578,1899,410.14
+P0229,Industrial Parts,Jeddah WH,4084,837,457.26
+P0230,Auto Parts,Dammam WH,4175,696,188.49
+P0231,Home Appliances,Dammam WH,4429,2861,327.98
+P0232,Industrial Parts,Riyadh WH,521,1478,468.82
+P0233,Personal Care,Riyadh WH,2446,1069,404.85
+P0234,Medical Supplies,Riyadh WH,3443,953,157.02
+P0235,Office Supplies,Dammam WH,1086,1971,140.53
+P0236,Auto Parts,Jeddah WH,3307,2459,274.1
+P0237,Electronics,Jeddah WH,2983,605,445.31
+P0238,Electronics,Dammam WH,1619,2923,415.74
+P0239,Food Products,Dammam WH,2720,867,494.85
+P0240,Beverages,Riyadh WH,4024,1010,19.82
+P0241,Beverages,Jeddah WH,4395,1901,426.89
+P0242,Medical Supplies,Riyadh WH,2101,857,266.03
+P0243,Beverages,Dammam WH,1214,2461,38.15
+P0244,Industrial Parts,Dammam WH,907,1425,387.76
+P0245,Packaging Materials,Dammam WH,3207,2007,368.05
+P0246,Beverages,Dammam WH,4495,2861,301.34
+P0247,Beverages,Jeddah WH,114,1593,441.53
+P0248,Packaging Materials,Dammam WH,3793,1026,224.08
+P0249,Beverages,Jeddah WH,922,1596,118.03
+P0250,Medical Supplies,Riyadh WH,1600,2584,390.64
+P0251,Home Appliances,Dammam WH,1012,1625,285.73
+P0252,Beverages,Dammam WH,3501,566,93.7
+P0253,Industrial Parts,Jeddah WH,552,2432,196.6
+P0254,Industrial Parts,Dammam WH,4910,1065,121
+P0255,Office Supplies,Jeddah WH,1965,2811,433.81
+P0256,Food Products,Dammam WH,4167,2057,38.61
+P0257,Packaging Materials,Riyadh WH,289,1051,339.52
+P0258,Electronics,Riyadh WH,1678,2064,428.47
+P0259,Electronics,Dammam WH,1310,1282,473.24
+P0260,Auto Parts,Dammam WH,613,2578,208.76
+P0261,Beverages,Riyadh WH,4400,2018,220.8
+P0262,Home Appliances,Dammam WH,766,1945,254.58
+P0263,Food Products,Riyadh WH,4815,531,364.5
+P0264,Packaging Materials,Dammam WH,4785,1464,375.17
+P0265,Packaging Materials,Dammam WH,4008,1965,155.94
+P0266,Office Supplies,Riyadh WH,3102,831,19.5
+P0267,Home Appliances,Jeddah WH,3625,2376,138.59
+P0268,Office Supplies,Dammam WH,4589,2645,119.25
+P0269,Home Appliances,Riyadh WH,3763,2117,222.57
+P0270,Packaging Materials,Jeddah WH,2997,1089,140.87
+P0271,Home Appliances,Riyadh WH,955,1255,346.45
+P0272,Medical Supplies,Jeddah WH,2397,1162,442.51
+P0273,Electronics,Dammam WH,3158,1048,218.52
+P0274,Personal Care,Jeddah WH,1322,1506,351.06
+P0275,Office Supplies,Dammam WH,4380,865,278.57
+P0276,Packaging Materials,Jeddah WH,285,2640,145.74
+P0277,Auto Parts,Jeddah WH,2754,1695,479.89
+P0278,Electronics,Dammam WH,3543,1035,446.87
+P0279,Electronics,Jeddah WH,595,1276,57.03
+P0280,Food Products,Dammam WH,2197,1398,139.26
+P0281,Personal Care,Dammam WH,3464,2811,246.97
+P0282,Industrial Parts,Dammam WH,2933,1793,363.09
+P0283,Food Products,Dammam WH,4748,2544,173.38
+P0284,Electronics,Riyadh WH,2282,2777,243.09
+P0285,Home Appliances,Jeddah WH,2007,1323,278.88
+P0286,Medical Supplies,Dammam WH,4462,2480,198.31
+P0287,Industrial Parts,Jeddah WH,1288,775,10.61
+P0288,Office Supplies,Dammam WH,3567,2879,158.95
+P0289,Auto Parts,Jeddah WH,4709,2644,78.76
+P0290,Personal Care,Riyadh WH,4262,2788,371.16
+P0291,Office Supplies,Riyadh WH,1896,2547,491.59
+P0292,Electronics,Jeddah WH,1130,1105,210.91
+P0293,Beverages,Riyadh WH,913,1195,121.58
+P0294,Medical Supplies,Dammam WH,3719,922,430.94
+P0295,Home Appliances,Jeddah WH,3803,2794,61.62
+P0296,Packaging Materials,Riyadh WH,4294,1405,184.31
+P0297,Electronics,Jeddah WH,1773,2915,79.46
+P0298,Electronics,Jeddah WH,2144,1620,108.34
+P0299,Electronics,Riyadh WH,1698,551,283.18
+P0300,Office Supplies,Dammam WH,3643,878,17.88
