@@ -1,0 +1,2 @@
+# Business-Pulse-360-Performance-Supply-Chain-Analytics
+An interactive Power BI dashboard designed to analyze business performance and supply chain operations. The project tracks revenue, profit, inventory value, shipment delays, warehouse efficiency, and regional sales trends. It provides actionable insights to identify operational bottlenecks, improve delivery performance, and support data-driven 
