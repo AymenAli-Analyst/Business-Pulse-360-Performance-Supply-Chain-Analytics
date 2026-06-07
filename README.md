@@ -70,13 +70,13 @@ The dashboard enables stakeholders to:
 
 ## Executive Performance Dashboard
 
-![Performance Dashboard]([(https://github.com/AymenAli-Analyst/Business-Pulse-360-Performance-Supply-Chain-Analytics/blob/main/dash%20pi.png?raw=true))
+![Performance Dashboard](images/dashboard_1.png)
 
 ---
 
 ## Supply Chain Insights Dashboard
 
-![Supply Chain Dashboard]([https://github.com/AymenAli-Analyst/Business-Pulse-360-Performance-Supply-Chain-Analytics/blob/main/dash%20pi%202.png?raw=true])
+![Supply Chain Dashboard](images/dashboard_2.png)
 
 ---
 
@@ -144,4 +144,3 @@ This solution enables decision-makers to quickly identify performance issues, im
 Data Analyst | Power BI | SQL | Excel | Data Visualization
 
 ⭐ If you found this project valuable, feel free to star the repository.
-
