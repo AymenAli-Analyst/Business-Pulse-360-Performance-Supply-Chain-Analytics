@@ -70,13 +70,13 @@ The dashboard enables stakeholders to:
 
 ## Executive Performance Dashboard
 
-![Performance Dashboard]([images/dashboard_1.png](https://github.com/AymenAli-Analyst/Business-Pulse-360-Performance-Supply-Chain-Analytics/blob/main/dash%20pi.png?raw=true))
+![Performance Dashboard]([(https://github.com/AymenAli-Analyst/Business-Pulse-360-Performance-Supply-Chain-Analytics/blob/main/dash%20pi.png?raw=true))
 
 ---
 
 ## Supply Chain Insights Dashboard
 
-![Supply Chain Dashboard](images/dashboard_2.png)
+![Supply Chain Dashboard]([https://github.com/AymenAli-Analyst/Business-Pulse-360-Performance-Supply-Chain-Analytics/blob/main/dash%20pi%202.png?raw=true])
 
 ---
 
