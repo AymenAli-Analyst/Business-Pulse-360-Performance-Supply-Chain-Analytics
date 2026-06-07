@@ -70,7 +70,7 @@ The dashboard enables stakeholders to:
 
 ## Executive Performance Dashboard
 
-![Performance Dashboard](<img width="1366" height="788" alt="image" src="https://github.com/user-attachments/assets/02bcf21a-bd84-4a90-bff6-4e8d2315d7e9" />
+![Performance Dashboard](https://github.com/AymenAli-Analyst/Business-Pulse-360-Performance-Supply-Chain-Analytics/blob/main/dash%20pi.png?raw=true
 )
 
 ---
